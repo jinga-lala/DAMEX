@@ -71,11 +71,12 @@ The dataset mapping of DAMEX is currently hard-coded in [`datasets/dataset.py`](
 ## BibTeX
 
 ```
-@article{jain2023peekaboo,
-  title={PEEKABOO: Interactive Video Generation via Masked-Diffusion},
-  author={Jain, Yash and Nasery, Anshul and Vineet, Vibhav and Behl, Harkirat},
-  journal={arXiv preprint arXiv:2312.07509},
-  year={2023}
+@article{jain2024damex,
+  title={DAMEX: Dataset-aware Mixture-of-Experts for visual understanding of mixture-of-datasets},
+  author={Jain, Yash and Behl, Harkirat and Kira, Zsolt and Vineet, Vibhav},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
 }
 ```
 ## Comments
